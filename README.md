@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MS2407
+- 👋 Hi, I’m @MS98
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...React
 - 💞️ I’m looking to collaborate on ...Frontend Projects
