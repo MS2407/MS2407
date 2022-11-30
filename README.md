@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MS98
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...React
-- 💞️ I’m looking to collaborate on ...Frontend Projects
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mukul Sharma
+- 👀 I love solving problems and  I’m  good at Data structures and Algorithms
+- 🌱 I have worked on HTML, CSS , Javasript , React , NodeJs , ExpressJS and MongoDb 
+- 💞️ I’m looking to collaborate on Frontend as well as  Backend Projects 
+- 📫 Reach Me: @mukulkrieshna@gmail.com
 
 <!---
 MS2407/MS2407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
