@@ -8,5 +8,5 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MS2407?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MS2407&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MS2407&theme=github-dark&mode=weekly)](https://git.io/streak-stats)
 
