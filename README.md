@@ -4,7 +4,7 @@
 - 💬 Ask me about DataStructure & Algorithms , Problem Solving techniques, C++ STL and Web Dev
 - 👀 I’m looking to collaborate on Frontend as well as  Backend Projects 
 - 📩 Reach Me: @mukulkrieshna@gmail.com
-- 🔗 Other Links: ➡️[LeetCode](https://leetcode.com/MS98/)  ➡️[GeekForGeeks](https://auth.geeksforgeeks.org/user/mexcellshar)
+- 🔗 Other Links: ➡️[LeetCode](https://leetcode.com/MS98/)  ➡️[GeekForGeeks](https://auth.geeksforgeeks.org/user/ms98)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MS2407?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
